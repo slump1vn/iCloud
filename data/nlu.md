@@ -1,12 +1,16 @@
+## intent:give_name
+- [Anh](cust_sex) là [Thắng](cust_name)
+- [Chị](cust_sex) là [Hằng](cust_name)
+- [Em](cust_sex) là [Trang](cust_name)
+- [Cô](cust_sex) [Vân](cust_name)
+- [Chú](cust_sex) [Hùng](cust_name)
+
 ## intent:greet
-- hey
-- hello
-- hi
-- good morning
-- good evening
-- hey there
 - xin chào
 - chào bạn
+- hello
+- hi
+- hey
 - mình có vài câu hỏi
 - có ai giúp mình không
 - bạn ơi
@@ -16,59 +20,27 @@
 - chào
 - có ai ở đây không?
 
-## intent:goodbye
-- bye
-- goodbye
-- see you around
-- see you later
+## intent:bye
 - tạm biệt
 - chào tạm biệt
 - chào tạm biệt em
 - tạm biệt em
 - tạm biệt em nhé
 
-## intent:affirm
-- yes
-- indeed
-- of course
-- that sounds good
-- correct
+## intent:thank
+- chuẩn
+- hay
+- siêu
+- tuyệt
+- cám ơn
+- thanks
+- thank you
+- ok
+- cảm ơn em
+- cảm ơn em nhiều nhé
+- cảm ơn
 
-## intent:deny
-- no
-- never
-- I don't think so
-- don't like that
-- no way
-- not really
-
-## intent:mood_great
-- perfect
-- very good
-- great
-- amazing
-- wonderful
-- I am feeling very good
-- I am great
-- I'm good
-
-## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
-
-## intent:bot_challenge
-- are you a bot?
-- are you a human?
-- am I talking to a bot?
-- am I talking to a human?
+## intent:ask_func_list
 - bạn có thể làm được những gì
 - bạn giúp được gì nào
 - chức năng của bạn là gì
@@ -104,3 +76,32 @@
 - giúp được gì
 - mày làm được gì
 - có biết gì
+
+## intent:ask_name
+- bạn tên gì
+- tên gì
+- chị tên gì
+- anh tên gì
+- tên của bạn là gì
+- tên của chị là gì
+- tên của anh là gì
+- cho mình hỏi tên nhé
+- mình muốn biết tên bạn
+- mình muốn tiện xưng hộ hơn, cho mình biết tên nhé
+- để tiện xưng hộ thì tên bạn là gì
+- cho em xin tên của anh ạ
+- cho em xin tên của chị ạ
+- được biết tên bạn thì tốt nhỉ
+- vui lòng cho mình biết tên nhé
+- xin phép hỏi tên của bạn
+- vậy thì tên bạn là gì
+- tên bạn trong tiếng việt là gì
+- bạn có vui lòng cho mình biết tên được không
+- chúng ta nên biết tên nhau nhỉ?
+- em tên là gì thế
+- tên em là gì
+- tên em
+- tên bạn
+- bạn tên là gì
+- bạn tên gì thế
+- em tên gì
